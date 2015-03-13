@@ -9,9 +9,10 @@ Java Code 2 Smali Plugin for IntelliJ IDEA &amp; Android Studio to easily compil
 
 1. create or open a Java source file with your desired functionality
 2. click 'Build' and 'Compile To Smali'
+  ![ usage 1](img/step1.png)
 3. wait while IDEA's indicating the compilation process
 4. the Smali file is opened automatically in your editor
-
+ ![ usage 2](img/step2.png)
 
 Code2Smali is available at [JetBrains Plugin Repository](https://plugins.jetbrains.com/plugin/7712) and can therefore be found in your IDE's plugin manager! Alternatively, you can download the plugin from the release section or download  from [Github Repository](https://github.com/bunnyblue/Java2SmaliStudio/releases).
 
