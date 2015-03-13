@@ -1,8 +1,8 @@
 <idea-plugin version="2">
   <id>blue.stack.j2Smali</id>
-  <name>Java Code  to Smali</name>
+  <name>Code2Smali</name>
   <version>1.0</version>
-  <vendor email="bunnyblue@gmail.com" url="http://bunnyblue.github.io">BunnyBlue</vendor>
+  <vendor email="bunnyblueair@gmail.com" url="http://bunnyblue.github.io">BunnyBlue</vendor>
 
   <description><![CDATA[
      Android Studio Java to Smali Plugin.<br>
@@ -11,7 +11,7 @@
 
   <change-notes><![CDATA[
       Release.<br>
-      <em>1.0</em>
+      <em>1.1</em>
     ]]>
   </change-notes>
 
